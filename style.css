@@ -1,0 +1,10 @@
+#myclock {
+  font-size: 120px;
+  color: white;
+  text-align: center;
+  padding-top: 18%;
+  letter-spacing: 15px;
+}
+body {
+  background-color: black;
+}
